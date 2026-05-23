@@ -2,13 +2,22 @@
 
 ## Features
 - Add Employee
-- Calculate Salary
+- Salary Calculation
 - Bonus
 - Tax Deduction
 - Salary Slip
 
-## Technologies
-- Core Java
-- OOP
+## Concepts Used
+- Inheritance
+- Polymorphism
 - Collections
 - File Handling
+
+## Technologies
+- Core Java
+- Eclipse IDE
+
+## How To Run
+1. Clone Repository
+2. Open in Eclipse
+3. Run Main.java
